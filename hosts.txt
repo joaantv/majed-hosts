@@ -2,4 +2,6 @@
 # تضيف سطر = هوست جديد. تحذف سطر = التطبيق يوقف يستخدمه.
 # بعد التعديل شغّل: نشر-الهوستات.cmd
 https://vipmajed.site
+https://thmanyah-cdn.site
+https://gcp-live-servers8.site
 https://majed-player.site

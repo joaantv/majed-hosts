@@ -1,9 +1,11 @@
 {
  "v": 1,
- "ts": 1795715639,
+ "ts": 1795716888,
  "hosts": [
   "https://vipmajed.site",
+  "https://thmanyah-cdn.site",
+  "https://gcp-live-servers8.site",
   "https://majed-player.site"
  ],
- "sig": "MEUCIQDHE6TqVgB8QkNz0HyIkeOmW7YApv3NshKRWlt86F2NNwIgE0s5RFxCKQpvLw3+vrUGgDnUMVB+C5UTo5g+IEqDIaA="
+ "sig": "MEQCIEDphStd+48wTMtaG6MbXJ8kj06AS8SMa7EQKZpL4KPpAiBRXEqcUy8M0oppCISao0Xze2l7/rkbnsIhJAvwAohwHg=="
 }
