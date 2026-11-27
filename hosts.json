@@ -1,8 +1,8 @@
 {
  "v": 1,
- "ts": 1795722839,
+ "ts": 1795808278,
  "hosts": [
-  "https://thmanyah-cdn.site"
+  "https://gcp-live-servers8.site"
  ],
- "sig": "MEYCIQCXFtFDw0NplxsmSsGypijUgjgXbpQ1azqN6STJpcW5KgIhANudq4AELUT5AHk4v0zChRT0qzGoldjdIYJseGpOcVSY"
+ "sig": "MEUCIEvShrUw5iV32QsC6vhUAxrWs7qa28nMM7x2DZkyPSu+AiEA/7SvBrFzq7F44OI6JKdKkqonaf6j0Aod3qTMsf8FdVU="
 }
