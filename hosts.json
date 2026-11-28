@@ -1,8 +1,10 @@
 {
  "v": 1,
- "ts": 1795808278,
+ "ts": 1795879011,
  "hosts": [
-  "https://gcp-live-servers8.site"
+  "https://majed-vps.site",
+  "https://thmanyah-ass.site",
+  "https://thmanyah-bitch.site"
  ],
- "sig": "MEUCIEvShrUw5iV32QsC6vhUAxrWs7qa28nMM7x2DZkyPSu+AiEA/7SvBrFzq7F44OI6JKdKkqonaf6j0Aod3qTMsf8FdVU="
+ "sig": "MEUCIB8tQk3yE7Zh5O7i47TZ20Wy01vqt9QZAlI2ehDjit5ZAiEAqCO6FU6fM64UsknREj52AB2oWgiQNILiVPF/dQkp1vg="
 }

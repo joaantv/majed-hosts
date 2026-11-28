@@ -1,4 +1,6 @@
 # هوستات التطبيق — هوست في كل سطر، الأول هو الأساسي.
 # تضيف سطر = هوست جديد. تحذف سطر = التطبيق يوقف يستخدمه.
 # بعد التعديل شغّل: نشر-الهوستات.cmd
-https://gcp-live-servers8.site
+https://majed-vps.site
+https://thmanyah-ass.site
+https://thmanyah-bitch.site
